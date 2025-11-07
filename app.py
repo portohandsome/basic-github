@@ -1,0 +1,1 @@
+print("Routing Auth", "/auth")
